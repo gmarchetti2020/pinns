@@ -1,0 +1,1 @@
+Notebooks for August 2024 workshop. Clone into lab environment and edit paths as instructed.
